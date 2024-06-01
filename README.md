@@ -14,3 +14,10 @@
 <a href="http://www.github.com/merve-tuna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=merve-tuna&stroke=a855f7&background=000000&ring=0891b2&fire=0891b2&currStreakNum=a855f7&currStreakLabel=0891b2&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 <a href="http://www.github.com/merve-tuna"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=merve-tuna&bg_color=000000&color=a855f7&line=0891b2&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/merve-tuna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merve-tuna&langs_count=10&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merve-tuna/merve-tuna/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/merve-tuna/merve-tuna/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/merve-tuna/merve-tuna/output/github-contribution-grid-snake.svg">
+</picture>
