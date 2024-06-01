@@ -1,4 +1,4 @@
-https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gif
+https://i.pinimg.com/originals/e0/9f/d6/e09fd65897844dcc204b7a151b0c5301.jpg
 
 <h1 align="center">Hi 👋, I'm Merve Tuna</h1>
 <h3 align="center">An Industrial Engineering student at Bursa Technical University</h3>
